@@ -70,4 +70,4 @@ streamlit run app.py
 * app.py = user interface
 * scenarios.py = scenario Logic (reused code from scenario analysis in the thesis)
 * predictions.csv = model predictions
-* merged_clean_7years.csv = historical data
+* demo_data.csv = spesific selected dates, of historical data
