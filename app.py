@@ -7,7 +7,7 @@ date = st.selectbox("Date", get_demo_dates_s3())
 remove = st.number_input("Remove", 1, 5, 2)
 top = st.number_input("Top", 1, 15, 10)
 
-if st.button("Run"):
+if st.button("Run Scenario 3"):
     try:
         r = run_scenario_3(pd.to_datetime(date).date(), remove, top)
         st.success("Done")
