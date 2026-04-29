@@ -71,3 +71,10 @@ streamlit run app.py
 * scenarios.py = scenario Logic (reused code from scenario analysis in the thesis)
 * predictions.csv = model predictions
 * demo_data.csv = spesific selected dates, of historical data
+
+-----Thesis Code-----
+
+* The full bachelor thesis and analysis code can be found here:
+  https://github.com/Tuva12/ScenarioAnalysisInGroceryLogistics
+
+
